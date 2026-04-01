@@ -18,7 +18,7 @@ python demo.py
 
 | File | Purpose |
 |------|---------|
-| `llm_client.py` | The wrapper — `LLMClient`, `ConversationSession`, `TokenUsage`, `LLMResponse` |
+| `main.py` | The wrapper — `LLMClient`, `ConversationSession`, `TokenUsage`, `LLMResponse` |
 | `demo.py` | Runnable walkthrough of every feature |
 | `requirements.txt` | `anthropic` and `openai` SDKs |
 
