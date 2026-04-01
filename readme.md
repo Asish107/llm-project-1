@@ -38,4 +38,3 @@ and inspect/serialize the history easily.
 Production AI pipelines fail financially before they fail technically. Seeing
 `$0.000012` per call in development builds the habit of cost-awareness early.
 
-ode for Project 2: adding streaming"*
